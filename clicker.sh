@@ -9,6 +9,6 @@ do
         done
 
         xdotool key --window $w $slot
-        xdotool click --window $w 2
+        xdotool click --window $w 3
     done
 done
